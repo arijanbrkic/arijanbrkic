@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arijanbrkic
-- 👀 I’m interested in becoming a software developer starting from zero...
-- 🌱 I’m currently learning Javascript on TheOdinProject...
+- 🌱 I’m currently learning Javascript on TheOdinProject, and have built some projects to showcase my talents.
 
 <!---
 arijanbrkic/arijanbrkic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
